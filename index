@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sammy's page</title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="expires" content="-1"/>
+  </head>
+  <body>
+    <div class="main-container">
+      <div class="top-bar">
+        <div class="logo-container">
+          <a href="https://www.youtube.com/watch?v=2yJgwwDcgV8"><img src="nyan.gif" alt="Nyan Cat" class="nyan-logo"></a>
+          <h1>sammy's page</h1>
+        </div>
+      </div>
+      
+      <div class="content-area">
+        <div class="nav-bar">
+          <div class="nav-header">navigation</div>
+          <ul class="nav-links">
+            <li><a href="index.html" class="active">home</a></li>
+            <li><a href="songs.html">songs</a></li>
+            <li><a href="setup.html">my setup</a></li>
+            <li><a href="sensors.html">sensor data</a></li>
+          </ul>
+          
+          <div class="visitor-counter">
+            <div class="counter-label">visitors:</div>
+            <div class="counter-display">00420</div>
+          </div>
+        </div>
+        
+        <div class="main-content">
+          <div class="welcome-section">
+            <h2>welcome to my page!</h2>
+            <div class="intro-text">
+              <p>heya! i'm sammy (also known as samibinol). this is my website where i share some cool stuff like my setup and favorite songs, and maybe more later on. i'm still working on it, so please be patient.</p>
+            </div>
+            
+            <div class="divider"></div>
+            
+            <div class="about-me">
+              <h3>about me</h3>
+              <p>i'm 19 and live near bielefeld (germany). my hobbys are electronics, radio and biking (or generally being) in nature. i love soldering and programming microcontrollers but also repairing and reverse engineering electronics.</p>
+            </div>
+            
+            <div class="divider"></div>
+            
+            <div class="social-links">
+              <h3>find my socials:</h3>
+              <div class="button-container">
+                <a href="https://t.me/samibinol" class="social-button">Telegram</a>
+                <a href="https://www.youtube.com/@samibinol" class="social-button">YouTube</a>
+                <a href="https://github.com/samibinol" class="social-button">GitHub</a>
+                <a href="https://ko-fi.com/samibinol" class="social-button">Ko-Fi</a>
+                <a href="https://www.tumblr.com/samibinol" class="social-button">tumblr</a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="footer">
+            <p>© 2025 by samibinol | best viewed with internet explorer</p>
+            <div class="valid-html">
+              <p>written in pure HTML and CSS</p>
+              <p>sorry darkmode users</p>
+              <p><a href="impressum.html">impressum</a> | <a href="datenschutz.html">datenschutzerklärung</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
