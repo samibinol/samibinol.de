@@ -315,5 +315,6 @@ h3 {
   right: 0;
   bottom: 0;
   margin: auto;
-  transform: scale(0.5); /* Scale the image to half its size */
+  width: 50%; /* Set width to 50% of the original size */
+  height: auto; /* Maintain aspect ratio */
 }
