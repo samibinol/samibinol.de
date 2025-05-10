@@ -315,6 +315,6 @@ h3 {
   right: 0;
   bottom: 0;
   margin: auto;
-  width: 50%; /* Set width to 50% of the original size */
+  width: 10%; /* Set width to 50% of the original size */
   height: auto; /* Maintain aspect ratio */
 }
