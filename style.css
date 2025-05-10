@@ -302,9 +302,17 @@ h3 {
   margin: 10px 0 5px 0;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;
+.centerdiv {
+  position:relative;
+  height: 100%;
+  width:100%;
+}
+
+.centerimg {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  margin:auto;
 }
