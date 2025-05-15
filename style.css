@@ -1,6 +1,7 @@
 html {
   overflow-y: scroll;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+  font: comic-sans;
 }
 
 * {
@@ -12,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #e6e6fa; /* var(--bg-color) */
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
   color: #4a4a4a; /* var(--text-color) */
   line-height: 1.5;
 }
