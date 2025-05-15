@@ -1,9 +1,10 @@
 html {
-  overflow-y: scroll; /* Always show the vertical scrollbar */
+  overflow-y: scroll;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 * {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  
 }
 
 /* Base styles */
