@@ -2,6 +2,10 @@ html {
   overflow-y: scroll; /* Always show the vertical scrollbar */
 }
 
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
 /* Base styles */
 body {
   margin: 0;
